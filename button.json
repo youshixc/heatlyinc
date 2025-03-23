@@ -1,0 +1,179 @@
+{
+  "externalUrl": "https://apps.apple.com/us/app/mcpe-crime-craft-auto-theft-v/id6743543569",
+  "skins": {
+    "top_ranked": [
+      {
+        "title": "Player 1",
+        "description": "Immerse yourself in the world of GTA5 with this skin that brings the game to life.",
+        "imageUrl": "https://heatly.netlify.app/1.png",
+        "downloadUrl": "https://heatly.netlify.app/done1.png",
+        "views": 180,
+        "downloads": 45,
+        "width": 300,
+        "height": 200
+      },
+      {
+        "title": "Player 2",
+        "description": "Immerse yourself in the world of GTA5 with this skin that brings the game to life.",
+        "imageUrl": "https://heatly.netlify.app/2.png",
+        "downloadUrl": "https://heatly.netlify.app/done2.png",
+        "views": 140,
+        "downloads": 70,
+        "width": 300,
+        "height": 200
+      },
+      {
+        "title": "Player 3",
+        "description": "Immerse yourself in the world of GTA5 with this skin that brings the game to life.",
+        "imageUrl": "https://heatly.netlify.app/3.png",
+        "downloadUrl": "https://heatly.netlify.app/done3.png",
+        "views": 130,
+        "downloads": 65,
+        "width": 300,
+        "height": 200
+      }
+    ],
+    "new_coming": [
+      {
+        "title": "Player 4",
+        "description": "Immerse yourself in the world of GTA5 with this skin that brings the game to life.",
+        "imageUrl": "https://heatly.netlify.app/4.png",
+        "downloadUrl": "https://heatly.netlify.app/done4.png",
+        "views": 120,
+        "downloads": 60,
+        "width": 300,
+        "height": 200
+      },
+      {
+        "title": "Player 5",
+        "description": "Immerse yourself in the world of GTA5 with this skin that brings the game to life.",
+        "imageUrl": "https://heatly.netlify.app/5.png",
+        "downloadUrl": "https://heatly.netlify.app/done5.png",
+        "views": 110,
+        "downloads": 55,
+        "width": 300,
+        "height": 200
+      },
+      {
+        "title": "Player 6",
+        "description": "Immerse yourself in the world of GTA5 with this skin that brings the game to life.",
+        "imageUrl": "https://heatly.netlify.app/6.png",
+        "downloadUrl": "https://heatly.netlify.app/done6.png",
+        "views": 100,
+        "downloads": 50,
+        "width": 300,
+        "height": 200
+      }
+    ],
+    "top_downloaded": [
+      {
+        "title": "Player 7",
+        "description": "Immerse yourself in the world of GTA5 with this skin that brings the game to life.",
+        "imageUrl": "https://heatly.netlify.app/3.png",
+        "downloadUrl": "https://heatly.netlify.app/done3.png",
+        "views": 200,
+        "downloads": 150,
+        "width": 300,
+        "height": 200
+      },
+      {
+        "title": "Player 8",
+        "description": "Immerse yourself in the world of GTA5 with this skin that brings the game to life.",
+        "imageUrl": "https://heatly.netlify.app/1.png",
+        "downloadUrl": "https://heatly.netlify.app/done1.png",
+        "views": 190,
+        "downloads": 145,
+        "width": 300,
+        "height": 200
+      }
+    ]
+  },
+  "mods": {
+    "top_ranked": [
+      {
+        "title": "map RPM Bedrock for D.W.S system",
+        "description": "Here you will get an education and a lot will depend on it.There are also billboards in the city that are empty, but you can make an ad yourself and hang it there.",
+        "imageUrl": "https://r2.mcpedl.com/submissions/247596/images/test-map-dws-system_8.jpeg",
+        "downloadUrl": "https://www.mediafire.com/file/jhfyoa7me425qn0/RPM+(RolePlay+Minecraft)+Bedrock+D.W.S+system+version+1.mcworld/file",
+        "views": 1,
+        "downloads": 5,
+        "width": 800,
+        "height": 450
+      },
+      {
+        "title": "Bedrock Edition",
+        "description": "his minipack even includes GTA SA gun model! And we made this minipack in just one day! And really like what the game actually presents!",
+        "imageUrl": "https://r2.mcpedl.com/submissions/178933/images/gta-san-andreas-bedrock-edition_5.jpeg",
+        "downloadUrl": "https://www.mediafire.com/download/il1vt7y3uuek2ob",
+        "views": 10,
+        "downloads": 1,
+        "width": 800,
+        "height": 450
+      },
+      {
+        "title": "Trevor's Car GTA V1.3.9 (Canis Bodhi)",
+        "description": "Have you ever dreamed of being in Trevor's beautiful car?",
+        "imageUrl": "https://r2.mcpedl.com/submissions/196573/images/trevors-car-from-gta-5-canis-bodhi_5.png",
+        "downloadUrl": "https://www.mediafire.com/file/pupxdntxixv5spj/Canis_Bodhi1.3.9.mcaddon/file",
+        "views": 130,
+        "downloads": 65,
+        "width": 800,
+        "height": 450
+      }
+    ],
+    "new_coming": [
+      {
+        "title": "GTA Addon Minecraft",
+        "description": "Then this Addon is for you. This Addon brings you some characters and features from the GTA universe",
+        "imageUrl": "https://i.ytimg.com/vi/tiMWNyENNSY/maxresdefault.jpg",
+        "downloadUrl": "https://www.mediafire.com/file/l086sjax0u30ijs/GTA+Minecraft_1642530483437.mcaddon/file",
+        "views": 120,
+        "downloads": 60,
+        "width": 800,
+        "height": 450
+      },
+      {
+        "title": "Reborn RPG - GTA MineCity",
+        "description": "Reborn RPG - GTA MineCity",
+        "imageUrl": "https://r2.mcpedl.com/submissions/167343/images/reborn-rpg--gta-minecity_21.png",
+        "downloadUrl": "https://mcpedl.com/servers/reborn-rpg-gta-minecity/",
+        "views": 110,
+        "downloads": 55,
+        "width": 800,
+        "height": 450
+      },
+      {
+        "title": "PE Display Screen Addon",
+        "description": "Create Modern Houses or Citys [Also create Billboard's] Total 10 Billboard.Display Screen Addon",
+        "imageUrl": "https://minecraft-billboard-addons.netlify.app/img-video/InShot_20240121_192416422.jpg",
+        "downloadUrl": "https://minecraft-billboard-addons.netlify.app/img-video/Billborad.mcaddon",
+        "views": 100,
+        "downloads": 5,
+        "width": 800,
+        "height": 450
+      }
+    ],
+    "top_downloaded": [
+      {
+        "title": "City Mobs",
+        "description": "Much like my last addon, Inhumanity, this addon humanizes many of the game's mobs.",
+        "imageUrl": "https://r2.mcpedl.com/submissions/137782/images/modern-mobs-v10_4.png",
+        "downloadUrl": "https://sr2.mcpedl.com/submissions/79292/102/web/CityMobsv2.0.mcaddon",
+        "views": 2,
+        "downloads": 10,
+        "width": 800,
+        "height": 450
+      },
+      {
+        "title": "Functional Nuclear Plant",
+        "description": "This is the unit one of my very own Condor Nuclear Generating plant. The plant itself has about 8 reactors and is located in a fictional Canadian city called Atlanta",
+        "imageUrl": "https://r2.mcpedl.com/submissions/238876/images/functional-nuclear-plant_2.png",
+        "downloadUrl": "https://sr2.mcpedl.com/submissions/124411/100/web/Full_Nuclear.mcpack",
+        "views": 10,
+        "downloads": 1,
+        "width": 800,
+        "height": 450
+      }
+    ]
+  }
+}
